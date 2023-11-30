@@ -24,9 +24,6 @@ This repository contains SQL queries for analyzing daily weather conditions in M
 ## Additional Analyses (Optional)
 Feel free to explore additional analyses based on the provided dataset, such as trends in humidity, correlations between different weather parameters, or the impact of seasons on weather conditions.
 
-## Results
-For visual representations and additional insights, check the [Results](Results/) directory.
-
 ## Contributions
 Contributions and feedback are welcome! If you have ideas for additional queries or improvements, feel free to submit a pull request.
 
